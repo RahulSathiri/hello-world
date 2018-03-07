@@ -7,7 +7,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import com.dieselpoint.norm.Database;
 import com.nexxi.userapplication.db.DBFactory;
 import com.nexxi.userapplication.models.User;
-
+//this is a service class
 public class UserService {
 
 	@Autowired

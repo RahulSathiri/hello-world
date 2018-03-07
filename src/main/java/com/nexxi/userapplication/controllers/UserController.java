@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.nexxi.userapplication.models.User;
 import com.nexxi.userapplication.services.UserService;
-
+//this is a controler
 @RestController
 public class UserController {
 	@Autowired
